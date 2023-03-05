@@ -1,6 +1,7 @@
 # ETHDenver-Bounty-Board
 
-A decentralized bounty board built using Fuel, the fastest modular execution layer!
+A decentralized bounty board built using Fuel, the fastest modular execution layer! This is the aggregated repository with other important repositories -- We divided everything thrice: smart contract, website, and backend for the oracle and indexer.  
+
 
 # Smart Contracts -- Sway Lang
 
